@@ -1,3 +1,9 @@
 # hello-world
 
-this sentence is ready to be deleted.
+
+Hi every film lovers!
+
+stenhal here,I like film, and game like Inside and ICO,
+I am now designing and implementing my own game using Unity.
+
+
